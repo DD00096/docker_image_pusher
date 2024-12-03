@@ -10,3 +10,4 @@ python:alpine3.19
 mysql
 redis
 gitlab/gitlab-ce
+jenkins/jenkins:lst
